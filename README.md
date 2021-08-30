@@ -1,6 +1,6 @@
 # SignalR Example
 
-This is a sample project that demonstrates how [Signal R](https://dotnet.microsoft.com/apps/aspnet/signalr) can be used to create real-time applications.
+This is a sample project that demonstrates how [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) can be used to create real-time applications.
 
 ## Project Dependencies 
 
